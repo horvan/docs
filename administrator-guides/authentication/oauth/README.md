@@ -36,4 +36,9 @@ TBD.
 
 ## Twitter
 
+
+- Twitter-ID `Consumer API keys/ API key`
+- Twitte-Seecret: `Consumer API keys/ (API secret key)`
 - Callback url: `<<website_url>>/_oauth/twitter`
+
+
